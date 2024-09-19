@@ -1,0 +1,11 @@
+D:\Github\SE310-BTapTuan7\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Github\SE310-BTapTuan7\DAL\bin\Debug\net7.0\DAL.dll
+D:\Github\SE310-BTapTuan7\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.dll
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Github\SE310-BTapTuan7\DAL\obj\Debug\net7.0\ref\DAL.dll
